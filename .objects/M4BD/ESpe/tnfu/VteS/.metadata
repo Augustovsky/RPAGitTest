@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Please select the follo…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "VteSnlGffE6tydV_BiwMpg",
+  "Reference": "9P68AkJ-mkugfXo0EyfeEA/VteSnlGffE6tydV_BiwMpg",
+  "ParentRef": "9P68AkJ-mkugfXo0EyfeEA/tnfuZR9JJki0978l4goDuw",
+  "Created": "2026-03-03T14:29:00.5036273Z",
+  "Updated": "2026-03-03T14:29:00.5036273Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

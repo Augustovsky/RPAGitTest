@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Email(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "D9GfV37yuUy_nL_nAkoOsQ",
+  "Reference": "9P68AkJ-mkugfXo0EyfeEA/D9GfV37yuUy_nL_nAkoOsQ",
+  "ParentRef": "9P68AkJ-mkugfXo0EyfeEA/tnfuZR9JJki0978l4goDuw",
+  "Created": "2026-03-03T15:06:23.8497488Z",
+  "Updated": "2026-03-03T15:06:23.8497488Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
