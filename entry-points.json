@@ -18,6 +18,9 @@
                 "readOnly": true
               }
             }
+          },
+          "in_Email": {
+            "type": "string"
           }
         },
         "required": []
